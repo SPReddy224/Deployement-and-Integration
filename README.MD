@@ -1,4 +1,5 @@
 ## Docker + React App + API Express + MySQL
+It is the ToDo List application where the user can add edit delete the list of tasks. It also has labels in which the user can add color for a particular task.The home page displays the list of tasks added the user.
 
 This project implements a quick start up project using the facebook`s create-react-app as the app front end,
 a configured express API server connected to a MySQL database (easy to change) and optionally the phpMyAdmin
